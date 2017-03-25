@@ -72,11 +72,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmListaDeNombres.vb">
+    <Compile Include="fNameList.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmListaDeNombres.Designer.vb">
-      <DependentUpon>frmListaDeNombres.vb</DependentUpon>
+    <Compile Include="fNameList.Designer.vb">
+      <DependentUpon>fNameList.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -96,8 +96,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="frmListaDeNombres.resx">
-      <DependentUpon>frmListaDeNombres.vb</DependentUpon>
+    <EmbeddedResource Include="fNameList.resx">
+      <DependentUpon>fNameList.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

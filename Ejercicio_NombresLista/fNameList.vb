@@ -1,4 +1,4 @@
-﻿Public Class frmListaDeNombres
+﻿Public Class fNameList
 
     Private Sub btnAgregar_Click(sender As Object, e As EventArgs) Handles btnAgregar.Click
 
